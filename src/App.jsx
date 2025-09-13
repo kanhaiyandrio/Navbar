@@ -10,6 +10,7 @@ function App() {
   return (
     <>
   <Navbar></Navbar>
+  <h1>Done By Home Page</h1>
         
     </>
   )
